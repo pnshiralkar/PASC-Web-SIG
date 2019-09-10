@@ -1,5 +1,5 @@
 # PASC-Web-SIG
-Welcome to the Web Development SIG by PASC. In this repo, you will find all the resources (code,ppt,etc) used during the SIG.<br>Also, the repo has <strong>short Assignments</strong> you can practice.
+Welcome to the Web Development SIG by PASC. In this repo, you will find all the resources (code,ppt,etc) used during the SIG.<br>Also, a <strong>short Assignments</strong> will be uploaded soon. You can practice the same for better understanding.
 
 # Session1 - <br>
 <ol>
